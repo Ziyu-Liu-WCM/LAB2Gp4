@@ -5,12 +5,7 @@ the DRG codes for average Medicare payments
 Version: 0.1.0
 Author: Ziyu Liu Jialin gao Chuxuan Gao
 Maintainer: The package maintainer <zil4005@med.cornell.edu>
-Description: A function that makes a boxplot of payments by DRG code. 
-Option for either the average Medicare payments, 
-the average total payment, or the average covered charges
-And a function for calculating statistics over all of 
-the DRG codes for average Medicare payments. Option in your function to 
-calculate either the mean, median, or standard deviation of the DRG codes.
+Description: A function that makes a boxplot and statistics of payments by DRG code. 
 License: None
 Encoding: UTF-8
 LazyData: true
