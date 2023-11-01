@@ -3,9 +3,6 @@
 #' Make it an option for your function to do this for either the average Medicare payments,
 #' the average total payment, or the average covered charges.
 #'
-#' Function 2: Write a function that calculates statistics over all of
-#' the DRG codes for average Medicare payments. Make it an option in your function to
-#' calculate either the mean, median, or standard deviation of the DRG codes.
 #' @param data a data frame
 #' @param payment_type a string name for variable y and a string from c("mean","median","standard deviation")
 #'
